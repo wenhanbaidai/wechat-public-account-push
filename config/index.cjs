@@ -12,11 +12,10 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'b3e899be3fbb134e0e66f549cfe40bdf',
-  "IS_SHOW_COLOR":true,
 
   PROVINCE: '广东',
   CITY: '深圳',
-
+  "IS_SHOW_COLOR":true,
   USERS: [
     {
       // 想要发送的人的名字
