@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o0vdw6QJy6_fqh2xR3IPz9y8Pcvw',
+      id: 'o0vdw6Ue50INulFw2olcqwNNPeDQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'hmSSCN1GdNDp-Gjp6fx8rx9_iybPwyvcu9LP3P4iuFU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -100,7 +100,7 @@ const USER_CONFIG = {
     eveningGreeting: false,
   
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: 3,
+    weather: 1,
   
     // 全网热搜榜（展示N条，最多30条）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
     networkHot: 0,
